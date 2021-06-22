@@ -17,7 +17,7 @@ VERSION = "3.0.0"
 # prerequisite: setuptools
 # http://pypi.python.org/pypi/setuptools
 
-REQUIRES = ["urllib3 >= 1.25.6", "six >= 1.10", "certifi", "python-dateutil"]
+REQUIRES = ["urllib3 >= 1.24.3", "six >= 1.10", "certifi", "python-dateutil"]
 
 setup(
     name=NAME,
